@@ -1,7 +1,6 @@
 # Disease Prediction Flask
 
-This is a appliaction uses flask for http requests
-It uses ML to predict disease according to symptoms provided.
+This is a appliaction which uses flask for http requests and in this app Machine Learning is implemented using disease prediction data model to predict disease according to symptoms provided.
 
 ## Features
 
